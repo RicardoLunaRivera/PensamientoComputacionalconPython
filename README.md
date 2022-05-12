@@ -1,2 +1,2 @@
-# PensamientoComputacionalconPython
-Curso de Introducción al Pensamiento Computacional con Python
+# Curso de Introducción al Pensamiento Computacional con Python 🐍
+
